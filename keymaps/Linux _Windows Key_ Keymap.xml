@@ -1,0 +1,128 @@
+<keymap version="1" name="Linux (Windows Key) Keymap" parent="Default for XWin">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="BaseOnThisFunction" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinProject" />
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.FindInGrid">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="Diagram.SelectAll" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="ParameterInfo" />
+  <action id="RecentFiles" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="tasks.open.in.browser" />
+</keymap>
