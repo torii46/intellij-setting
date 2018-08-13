@@ -14,7 +14,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/lib-dynload" />
