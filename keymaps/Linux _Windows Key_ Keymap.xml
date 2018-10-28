@@ -1,4 +1,8 @@
 <keymap version="1" name="Linux (Windows Key) Keymap" parent="Default for XWin">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="shift insert" />
@@ -9,13 +13,21 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="BaseOnThisFunction" />
+  <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="DatabaseView.CopyAction" />
   <action id="Diagram.SelectAll" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -39,6 +51,7 @@
     <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl b" />
@@ -72,6 +85,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -110,6 +124,8 @@
   <action id="MethodHierarchy" />
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
@@ -124,5 +140,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
   <action id="tasks.open.in.browser" />
 </keymap>
